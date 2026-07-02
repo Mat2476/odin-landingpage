@@ -35,8 +35,8 @@ footer {
 /* LOGO MENU*/
 .logo {
     font-family: system-ui;
-    font-size: 20px;
-    width: 500px;
+    font-size: 30px;
+    width: 900px;
     
 }
 
@@ -46,6 +46,7 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    align-items: center;
 }
 
 
@@ -64,7 +65,7 @@ footer {
     border-radius: 5px;
 }
 .div_img_1 {
-    flex-grow: 1;
+    flex-grow: 0.1;
 }
 
 .img_menu {
@@ -87,7 +88,7 @@ footer {
 
 }
 .img_ {
-    flex-grow: 0.2;
+    flex-grow: 0.1;
     height: 150px;
     width: 150px;
     border-radius: 10px;
